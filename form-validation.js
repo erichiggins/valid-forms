@@ -16,8 +16,7 @@
 
 /**
  * @fileoverview Automated client-side form validation.
- * Please see http://sites/webmaster/javascript/automated-form-validation
- * for usage.
+ * Please see http://code.google.com/p/valid-forms/ for usage.
  * @author erichiggins@google.com (Eric Higgins)
  */
 
